@@ -35,10 +35,14 @@ namespace NewsBlog.Web.Controllers
 
             if (identityResult.Succeeded)
             {
+                // assign this user the "User" role
+                var roleIdentityResult = await userManager.AddToRoleAsync(identityUser, "User");
                 
-                // Success
-                return RedirectToAction("Index", "Home");
-                
+                if (roleIdentityResult.Succeeded)
+                {
+                    // Success
+                    return RedirectToAction("Register");
+                }
             }
             // Failure
             return View("Register");

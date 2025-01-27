@@ -13,13 +13,8 @@ builder.Services.AddDbContext<NewsBlogDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("NewsBlogDbConnectionString"));
 });
 
-builder.Services.AddDbContext<AuthDbContext>(options =>
-{
-    options.UseSqlite(builder.Configuration.GetConnectionString("AuthConnectionString"));
-});
-
 builder.Services.AddIdentity<IdentityUser, IdentityRole>()
-    .AddEntityFrameworkStores<AuthDbContext>();
+    .AddEntityFrameworkStores<NewsBlogDbContext>();
 
 builder.Services.Configure<IdentityOptions>(options =>
 {
