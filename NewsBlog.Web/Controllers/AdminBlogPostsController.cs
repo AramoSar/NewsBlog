@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using NewsBlog.Web.Models.Domain;
 using NewsBlog.Web.Models.ViewModels;
@@ -6,6 +7,7 @@ using NewsBlog.Web.Repositories;
 
 namespace NewsBlog.Web.Controllers
 {
+    [Authorize(Roles = "Admin")]
     public class AdminBlogPostsController : Controller
     {
         private readonly ITagRepository tagRepository;

@@ -1,4 +1,5 @@
 ﻿using System.Linq;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using NewsBlog.Web.Data;
@@ -8,6 +9,7 @@ using NewsBlog.Web.Repositories;
 
 namespace NewsBlog.Web.Controllers
 {
+    [Authorize(Roles = "Admin")]
     public class AdminTagsController : Controller
     {
         private readonly ITagRepository tagRepository;
@@ -24,6 +26,7 @@ namespace NewsBlog.Web.Controllers
         }
 
         [HttpPost]
+        [ActionName("Add")]
         public async Task<IActionResult> Add(AddTagRequest addTagRequest)
         {
             // Maping addTagRequest to Tag domain model
@@ -39,6 +42,7 @@ namespace NewsBlog.Web.Controllers
         }
 
         [HttpGet]
+        [ActionName("List")]
         public async Task<IActionResult> List() 
         {
             var tags = await tagRepository.GetAllAsync();

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\NewsBlog.Web.csproj": {}
+    "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\NewsBlog.Web.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\NewsBlog.Web.csproj": {
+    "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\NewsBlog.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\NewsBlog.Web.csproj",
+        "projectUniqueName": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\NewsBlog.Web.csproj",
         "projectName": "NewsBlog.Web",
-        "projectPath": "\\\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\NewsBlog.Web.csproj",
+        "projectPath": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\NewsBlog.Web.csproj",
         "packagesPath": "C:\\Users\\aramsaribekyan1gmail\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\obj\\",
+        "outputPath": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

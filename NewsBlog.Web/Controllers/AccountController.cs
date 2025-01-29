@@ -41,7 +41,7 @@ namespace NewsBlog.Web.Controllers
                 if (roleIdentityResult.Succeeded)
                 {
                     // Success
-                    return RedirectToAction("Register");
+                    return RedirectToAction("Index", "Home");
                 }
             }
             // Failure
@@ -75,5 +75,10 @@ namespace NewsBlog.Web.Controllers
             return RedirectToAction("Index", "Home");
         }
 
+        [HttpGet]
+        public IActionResult AccessDenied()
+        {
+            return View();
+        }
     }
 }

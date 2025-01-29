@@ -409,3 +409,4 @@ C:\Mac\Home\Desktop\NewsBlogMVC\NewsBlog\NewsBlog.Web\bin\Debug\net8.0\Microsoft
 \\Mac\Home\Desktop\NewsBlogMVC\NewsBlog\NewsBlog.Web\obj\Debug\net8.0\NewsBlog.Web.pdb
 \\Mac\Home\Desktop\NewsBlogMVC\NewsBlog\NewsBlog.Web\obj\Debug\net8.0\NewsBlog.Web.genruntimeconfig.cache
 \\Mac\Home\Desktop\NewsBlogMVC\NewsBlog\NewsBlog.Web\obj\Debug\net8.0\ref\NewsBlog.Web.dll
+C:\Mac\Home\Desktop\NewsBlogMVC\NewsBlog\NewsBlog.Web\obj\Debug\net8.0\NewsBlog.Web.sourcelink.json

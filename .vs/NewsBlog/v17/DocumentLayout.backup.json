@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6383E471-EBA9-4D57-8701-4556175E5265}|NewsBlog.Web\\NewsBlog.Web.csproj|c:\\mac\\home\\desktop\\newsblogmvc\\newsblog\\newsblog.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6383E471-EBA9-4D57-8701-4556175E5265}|NewsBlog.Web\\NewsBlog.Web.csproj|solutionrelative:newsblog.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6383E471-EBA9-4D57-8701-4556175E5265}|NewsBlog.Web\\NewsBlog.Web.csproj|c:\\mac\\home\\desktop\\newsblogmvc\\newsblog\\newsblog.web\\data\\newsblogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6383E471-EBA9-4D57-8701-4556175E5265}|NewsBlog.Web\\NewsBlog.Web.csproj|solutionrelative:newsblog.web\\data\\newsblogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6383E471-EBA9-4D57-8701-4556175E5265}|NewsBlog.Web\\NewsBlog.Web.csproj|c:\\mac\\home\\desktop\\newsblogmvc\\newsblog\\newsblog.web\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6383E471-EBA9-4D57-8701-4556175E5265}|NewsBlog.Web\\NewsBlog.Web.csproj|solutionrelative:newsblog.web\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6383E471-EBA9-4D57-8701-4556175E5265}|NewsBlog.Web\\NewsBlog.Web.csproj|c:\\mac\\home\\desktop\\newsblogmvc\\newsblog\\newsblog.web\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6383E471-EBA9-4D57-8701-4556175E5265}|NewsBlog.Web\\NewsBlog.Web.csproj|solutionrelative:newsblog.web\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6383E471-EBA9-4D57-8701-4556175E5265}|NewsBlog.Web\\NewsBlog.Web.csproj|c:\\mac\\home\\desktop\\newsblogmvc\\newsblog\\newsblog.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6383E471-EBA9-4D57-8701-4556175E5265}|NewsBlog.Web\\NewsBlog.Web.csproj|solutionrelative:newsblog.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6383E471-EBA9-4D57-8701-4556175E5265}|NewsBlog.Web\\NewsBlog.Web.csproj|c:\\mac\\home\\desktop\\newsblogmvc\\newsblog\\newsblog.web\\controllers\\admintagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6383E471-EBA9-4D57-8701-4556175E5265}|NewsBlog.Web\\NewsBlog.Web.csproj|solutionrelative:newsblog.web\\controllers\\admintagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6383E471-EBA9-4D57-8701-4556175E5265}|NewsBlog.Web\\NewsBlog.Web.csproj|c:\\mac\\home\\desktop\\newsblogmvc\\newsblog\\newsblog.web\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6383E471-EBA9-4D57-8701-4556175E5265}|NewsBlog.Web\\NewsBlog.Web.csproj|solutionrelative:newsblog.web\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6383E471-EBA9-4D57-8701-4556175E5265}|NewsBlog.Web\\NewsBlog.Web.csproj|c:\\mac\\home\\desktop\\newsblogmvc\\newsblog\\newsblog.web\\views\\adminusers\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6383E471-EBA9-4D57-8701-4556175E5265}|NewsBlog.Web\\NewsBlog.Web.csproj|solutionrelative:newsblog.web\\views\\adminusers\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6383E471-EBA9-4D57-8701-4556175E5265}|NewsBlog.Web\\NewsBlog.Web.csproj|c:\\mac\\home\\desktop\\newsblogmvc\\newsblog\\newsblog.web\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6383E471-EBA9-4D57-8701-4556175E5265}|NewsBlog.Web\\NewsBlog.Web.csproj|solutionrelative:newsblog.web\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6383E471-EBA9-4D57-8701-4556175E5265}|NewsBlog.Web\\NewsBlog.Web.csproj|c:\\mac\\home\\desktop\\newsblogmvc\\newsblog\\newsblog.web\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6383E471-EBA9-4D57-8701-4556175E5265}|NewsBlog.Web\\NewsBlog.Web.csproj|solutionrelative:newsblog.web\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6383E471-EBA9-4D57-8701-4556175E5265}|NewsBlog.Web\\NewsBlog.Web.csproj|c:\\mac\\home\\desktop\\newsblogmvc\\newsblog\\newsblog.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6383E471-EBA9-4D57-8701-4556175E5265}|NewsBlog.Web\\NewsBlog.Web.csproj|solutionrelative:newsblog.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6383E471-EBA9-4D57-8701-4556175E5265}|NewsBlog.Web\\NewsBlog.Web.csproj|c:\\mac\\home\\desktop\\newsblogmvc\\newsblog\\newsblog.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6383E471-EBA9-4D57-8701-4556175E5265}|NewsBlog.Web\\NewsBlog.Web.csproj|solutionrelative:newsblog.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6383E471-EBA9-4D57-8701-4556175E5265}|NewsBlog.Web\\NewsBlog.Web.csproj|c:\\mac\\home\\desktop\\newsblogmvc\\newsblog\\newsblog.web\\models\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6383E471-EBA9-4D57-8701-4556175E5265}|NewsBlog.Web\\NewsBlog.Web.csproj|solutionrelative:newsblog.web\\models\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,106 +38,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "NewsBlog.Web\\appsettings.json",
-              "ToolTip": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\appsettings.json",
-              "RelativeToolTip": "NewsBlog.Web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-20T08:35:38.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\Models\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "NewsBlog.Web\\Models\\ViewModels\\LoginViewModel.cs",
-              "ToolTip": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\Models\\ViewModels\\LoginViewModel.cs",
-              "RelativeToolTip": "NewsBlog.Web\\Models\\ViewModels\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T07:59:41.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "NewsBlog.Web\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "NewsBlog.Web\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAUAAABwmpmZmZkewAAAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-20T07:57:41.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "NewsBlog.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "NewsBlog.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAEwAAAAAGTMzM3MvwFwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-20T07:28:25.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AuthDbContext.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\Data\\AuthDbContext.cs",
-              "RelativeDocumentMoniker": "NewsBlog.Web\\Data\\AuthDbContext.cs",
-              "ToolTip": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\Data\\AuthDbContext.cs",
-              "RelativeToolTip": "NewsBlog.Web\\Data\\AuthDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Title": "AdminUsersController.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\Controllers\\AdminUsersController.cs",
+              "RelativeDocumentMoniker": "NewsBlog.Web\\Controllers\\AdminUsersController.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\Controllers\\AdminUsersController.cs",
+              "RelativeToolTip": "NewsBlog.Web\\Controllers\\AdminUsersController.cs",
+              "ViewState": "AgIAAAQAAAAAoJmZmRkWwFwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T07:27:11.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\Models\\ViewModels\\RegisterViewModel.cs",
-              "RelativeDocumentMoniker": "NewsBlog.Web\\Models\\ViewModels\\RegisterViewModel.cs",
-              "ToolTip": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\Models\\ViewModels\\RegisterViewModel.cs",
-              "RelativeToolTip": "NewsBlog.Web\\Models\\ViewModels\\RegisterViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T07:16:32.539Z",
+              "WhenOpened": "2025-01-27T17:15:24.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "NewsBlog.Web\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "NewsBlog.Web\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\Models\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "NewsBlog.Web\\Models\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\Models\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "NewsBlog.Web\\Models\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:52:43.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\Views\\AdminUsers\\List.cshtml",
+              "RelativeDocumentMoniker": "NewsBlog.Web\\Views\\AdminUsers\\List.cshtml",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\Views\\AdminUsers\\List.cshtml",
+              "RelativeToolTip": "NewsBlog.Web\\Views\\AdminUsers\\List.cshtml",
+              "ViewState": "AgIAAA4AAADACQAAAAAhwCoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-20T07:04:14.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T12:25:26.526Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "NewsBlog.Web\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "NewsBlog.Web\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA3AAAAAAAAAA==",
+              "Title": "AdminTagsController.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\Controllers\\AdminTagsController.cs",
+              "RelativeDocumentMoniker": "NewsBlog.Web\\Controllers\\AdminTagsController.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\Controllers\\AdminTagsController.cs",
+              "RelativeToolTip": "NewsBlog.Web\\Controllers\\AdminTagsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T07:03:33.59Z",
+              "WhenOpened": "2025-01-27T10:35:11.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewsBlogDbContext.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\Data\\NewsBlogDbContext.cs",
+              "RelativeDocumentMoniker": "NewsBlog.Web\\Data\\NewsBlogDbContext.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\Data\\NewsBlogDbContext.cs",
+              "RelativeToolTip": "NewsBlog.Web\\Data\\NewsBlogDbContext.cs",
+              "ViewState": "AgIAABIAAAAAhTMzM7MQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T09:02:54.879Z",
               "EditorCaption": ""
             }
           ]

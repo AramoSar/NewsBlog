@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z6p/1LUhQXE=",
+  "dgSpecHash": "YBzkttZCs5s=",
   "success": true,
-  "projectFilePath": "\\\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\NewsBlog.Web.csproj",
+  "projectFilePath": "C:\\Mac\\Home\\Desktop\\NewsBlogMVC\\NewsBlog\\NewsBlog.Web\\NewsBlog.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aramsaribekyan1gmail\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\aramsaribekyan1gmail\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
